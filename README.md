@@ -70,36 +70,28 @@ Follow these steps to clone and run any project locally:
 1. **Clone this repository**:
    ```bash
    git clone https://github.com/vedant027/React-Applications.git
+   ```
 
 2. **Navigate to the project folder of your choice**:
   ```bash
    cd <project-folder-name>
   ```
-3.**Install dependencies**:
+3. **Install dependencies**:
  ```bash
   npm install
 ```
-4.**Configure the database**:
+4. **Configure the database**:
   - Create a MySQL database.
   - Import the SQL file provided in the project folder (if applicable).
   - Update the database connection details in the backend configuration.
 
-5.**Start the application**:
+5. **Start the application**:
 ```bash
   npm start
 ```
 
-6.**Access the application in your browser**:
+6. **Access the application in your browser**:
 ```bash
   http://localhost:3000
 ```
----
-
-## 🤝 Contributions
-- Contributions are welcome! If you'd like to contribute to any of these projects:
-
-1. Fork the repository.
-2. Create a new branch.
-3. Make your changes.
-4. Submit a pull request.
 
