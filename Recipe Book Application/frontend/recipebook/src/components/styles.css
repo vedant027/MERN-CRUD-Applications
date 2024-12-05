@@ -1,0 +1,15 @@
+
+.header{
+    font-family: "Montserrat,sans-serif";
+    font-size: 3rem;
+    text-align: center;
+    color: #fff;
+    background-color: #395756;
+    padding: 0.5rem;
+}
+
+.footer{
+    position: fixed;
+    bottom: 0px;
+    left: 750px;
+}

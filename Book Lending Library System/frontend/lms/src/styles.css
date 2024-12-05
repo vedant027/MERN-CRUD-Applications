@@ -1,0 +1,11 @@
+.headingtxt{
+    color: rgb(132, 47, 47);
+    text-align: center;
+    margin-bottom: 1rem;
+}
+
+.footer{
+    position: fixed;
+    bottom: 0px;
+    left: 750px;
+}

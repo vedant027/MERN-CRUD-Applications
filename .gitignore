@@ -1,0 +1,96 @@
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Runtime data
+pids
+*.pid
+*.seed
+*.pid.lock
+
+# Dependency directories
+node_modules/
+jspm_packages/
+
+# Build output
+build/
+dist/
+
+# Environment variable files
+.env
+.env.*.local
+
+# MySQL configuration
+*.sql
+*.db
+
+# Next.js output
+.next/
+out/
+
+# Coverage directory
+coverage/
+
+# IDE and Editor files
+.idea/
+.vscode/
+*.swp
+*.swo
+*.swn
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+ehthumbs.db
+
+# Production logs
+npm-debug.log
+yarn-debug.log
+yarn-error.log
+pnpm-debug.log
+lerna-debug.log
+
+# React specific
+*.cache
+*.eslintcache
+
+# Testing
+*.test.js
+*.test.ts
+*.test.tsx
+*.spec.js
+*.spec.ts
+*.spec.tsx
+coverage/
+
+# Miscellaneous
+*.tgz
+*.lock-wscript
+.*.sublime-workspace
+
+# System files
+*.orig
+.sass-cache/
+npm-debug.log*
+yarn-debug.log*
+pnpm-debug.log*
+
+# Optional npm cache directory
+.npm
+
+# Optional eslint cache
+.eslintcache
+
+# Optional REPL history
+.node_repl_history
+
+# Binaries
+*.exe
+*.dll
+*.so
+*.dylib

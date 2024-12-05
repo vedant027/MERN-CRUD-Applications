@@ -1,0 +1,12 @@
+.header{
+    color: #1C325B;
+    text-align: center;
+    border: 1px solid red;
+}
+
+.footer{
+    font-size: 20px;
+    position: fixed;
+    bottom: 0px;
+    left: 750px;
+}
