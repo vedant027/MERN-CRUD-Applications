@@ -1,4 +1,4 @@
-# 📚 ReactJS CRUD Applications
+# 📚 MERN CRUD Applications
 
 This repository contains multiple projects built using the **MERN stack** (ReactJS, ExpressJS, NodeJS, and MySQL instead of MongoDB). The primary focus of these projects is to demonstrate **CRUD operations** in various real-world scenarios. ✨
 
